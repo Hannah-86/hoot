@@ -1,3 +1,6 @@
+#URL (スマホ推奨)
+https://gms.gdl.jp/~rikuta/hoot/
+
 #README
 
 ##このコードの趣旨
