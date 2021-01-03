@@ -1,4 +1,5 @@
-###URL (スマホ推奨)
+#URL (スマホ推奨)
+
 https://gms.gdl.jp/~rikuta/hoot/
 
 #README
